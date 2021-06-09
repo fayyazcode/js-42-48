@@ -1,0 +1,5 @@
+.one,.two,.three{
+    display: inline-block;
+    width: 30%;
+    height: 300px;
+}
